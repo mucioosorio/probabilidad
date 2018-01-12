@@ -1,10 +1,5 @@
 ---
 layout: post
-title: "Sample Mathjax Post"
-description: "MathJax Test article"
-headline: 
-category: Sample-Posts
-comments: true
 mathjax: true
 ---
 HMFAYSAL OMEGA theme supports both inline and displayed equations via MathJax.  The theme keeps MathJax turned off by default to improve page load speed. MathJax can be turned on from the post's Front Matter YAML. Simply put the following statement in the post's Front Matter YAML:
