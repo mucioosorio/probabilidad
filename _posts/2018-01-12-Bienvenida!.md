@@ -1,3 +1,6 @@
+---
+mathjax: true
+---
 
 ## Hola
 
