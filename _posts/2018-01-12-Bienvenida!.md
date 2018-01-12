@@ -4,4 +4,4 @@
 Este blog esta diseñado para apoyar a los cursos de Estadística del Departamento de Matemáticas del 
 Instituto Tecnológico de Sonora.
 
-[www.itson.edu.mx](http://itson.edu.mx)
+[www.itson.edu.mx](http://itson.mx)
