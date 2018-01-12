@@ -1,18 +1,18 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
+title: Mucio Osorio
+description: 'Blog del curso de Probabilidad y Estadística'
 url: 'https://mucioosorio.github.io'
 baseurl: '/mucio'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'Mucio Osorio Sánchez'
+  email: mucio.osorio@itson.edu.mx
+  twitter_username: mosorio2
+  facebook_username: osorio.mucio
+  github_username:  mucioosorio
+  linkedin_username:  mucio-osorio-605421154
 
 defaults:
   -
