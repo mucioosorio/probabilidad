@@ -1,7 +1,9 @@
 
 ---
+layout: post
 mathjax: true
 ---
+
 
 # ESTADISTICA DESCRIPTIVA: LAS SEIS CARACTERÍSTICAS DE LOS DATOS.
 
