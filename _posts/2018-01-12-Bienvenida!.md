@@ -5,3 +5,5 @@ Este blog esta diseñado para apoyar a los cursos de Estadística del Departamen
 Instituto Tecnológico de Sonora.
 
 [www.itson.mx](http://itson.mx)
+
+$$\alpha = x^2$$
