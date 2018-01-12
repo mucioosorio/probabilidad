@@ -133,10 +133,11 @@ diff(range(faithful$waiting))
 
 Mide la distancia (cuadrada) existente entre los valores de la serie y la media. Mientras más se aproxima a cero, más concentrados están los valores de la serie alrededor de la media. Por el contrario, mientras mayor sea la varianza, más dispersos están. El símbolo para representar a la varianza muestral es ${s^2}$ y para la varianza poblacional ${\sigma ^2}$.
 
+```R
 $${s^2} = \frac{1}{{n - 1}}\sum\limits_{i = 1}^n {({x_i} - \overline x } {)^2} = \frac{1}{{n - 1}}\left( {\sum\limits_{i = 1}^n {x_i^2}  - \frac{{{{\left( {\sum\limits_{i = 1}^n {{x_i}} } \right)}^2}}}{n}} \right)$$     
 
 $${\sigma ^2} = \frac{1}{N}\sum\limits_{i = 1}^N {({x_i} - \mu } {)^2} = \frac{1}{N}\left( {\sum\limits_{i = 1}^N {x_i^2}  - \frac{{{{\left( {\sum\limits_{i = 1}^N {{x_i}} } \right)}^2}}}{N}} \right)$$    
-
+```
 
 ```R
 var(faithful$eruptions)
