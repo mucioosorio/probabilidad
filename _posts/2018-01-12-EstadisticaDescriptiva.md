@@ -133,9 +133,7 @@ diff(range(faithful$waiting))
 
 Mide la distancia (cuadrada) existente entre los valores de la serie y la media. Mientras más se aproxima a cero, más concentrados están los valores de la serie alrededor de la media. Por el contrario, mientras mayor sea la varianza, más dispersos están. El símbolo para representar a la varianza muestral es ${s^2}$ y para la varianza poblacional ${\sigma ^2}$.
 
-$${s^2} = \frac{1}{{n - 1}}\sum\limits_{i = 1}^n {({x_i} - \overline x } {)^2} = \frac{1}{{n - 1}}\left( {\sum\limits_{i = 1}^n {x_i^2}  - \frac{{{{\left( {\sum\limits_{i = 1}^n {{x_i}} } \right)}^2}}}{n}} \right)$$     
-
-$${\sigma ^2} = \frac{1}{N}\sum\limits_{i = 1}^N {({x_i} - \mu } {)^2} = \frac{1}{N}\left( {\sum\limits_{i = 1}^N {x_i^2}  - \frac{{{{\left( {\sum\limits_{i = 1}^N {{x_i}} } \right)}^2}}}{N}} \right)$$    
+  
 
 
 ```R
@@ -192,7 +190,7 @@ hist(faithful$waiting)
 
 * Si la media es menor que la mediana (la media a la izquierda de la mediana) entonces la distribución está sesgada a la izquierda (o negativamente) 
 
-![forma-datos](figs/06_forma-datos.PNG)
+
 
 #  5. Agrupamientos o clústers 
 
@@ -208,7 +206,6 @@ hist(faithful$eruptions)
 
 La correlación indica la fuerza y la dirección de una relación lineal entre dos variables. Se considera que dos variables cuantitativas están correlacionadas cuando los valores de una de ellas varían sistemáticamente con respecto a los valores de la otra: si tenemos dos variables (A y B) existe correlación positiva entre ellas si al disminuir los valores de A lo hacen también los de B y viceversa y tenemos una relación negativa si al disminuir los valores de A aumentanlos de B o viceversa. La correlación entre dos variables no implica, por sí misma, ninguna relación de causalidad.
 
-![correlacion](figs/07_correlacion.PNG)
 
 La herramienta que sirve para visualizar la relación entre dos variables se llama **diagrama de dispersión**
 
