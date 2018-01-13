@@ -1,7 +1,4 @@
----
-layout: post
-mathjax: true
----
+
 ## ESTADISTICA DESCRIPTIVA: LAS SEIS CARACTERÍSTICAS DE LOS DATOS.
 
 En estas notas se estudian las herramientas estadísticas esenciales en el análisis descriptivo de los datos y que estan basadas en el artículo  ["The Six Characteristics of a Dataset"](http://curriculum.qed.qld.gov.au/kla/eda/). 
