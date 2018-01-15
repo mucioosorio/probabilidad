@@ -9,6 +9,9 @@ Instituto Tecnológico de Sonora.
 ![Statistics](/probabilidad/figs/statistics.jpg)
 
 Mucio Osorio Sánchez
+
 Cub. 30 del CAD
+
 mucio.osorio@itson.edu.mx
+
 mucio.osorio@gmail.com
