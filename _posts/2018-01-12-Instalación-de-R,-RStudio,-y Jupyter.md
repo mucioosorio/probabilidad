@@ -1,5 +1,5 @@
 
-# Instalación de R, Jupyter y R Studio
+
 
 Las tres herramientas que deben instalarse para el curso son **R**, **RStudio** y **Jupyter** (a éstos  dos últimos se puede acceder desde la plataforma de ANACONDA)
 
