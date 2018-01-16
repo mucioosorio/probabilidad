@@ -12,7 +12,7 @@ Datos del indice de glucosa de personas de Nogales, Sonora.Obtenidospor UNISON.
 http://mucioosorio.github.io/probabilidad/data/glucosa.csv
 ## Estudiantes ITSON
 
-http://mucioosorio.github.io/probabilidad/probabilidad/data/Encuesta.csv)
+http://mucioosorio.github.io/probabilidad/probabilidad/data/Encuesta.csv
 
 ## Old Faithfull
 
