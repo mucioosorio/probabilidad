@@ -33,7 +33,7 @@ Si se requiere Información sobre los datos old faithful solo escriba **?faithfu
 ?faithful
 ```
 
-# 1. Localización de los datos.
+## 1. Localización de los datos.
 
 Con éstas medidas se pretende tener una idea de la ubicación de los datos en algún lugar de los números reales. Es importante dar la posición del dato más pequeño, del dato más grande, de lo que en Estadística se conoce como la tendencia central de los datos y los cuantiles (que dan otras ubicaciones incluidas las centrales).
 
@@ -106,7 +106,7 @@ quantile(faithful$eruptions,0.10)
 quantile(faithful$waiting,c(0.10,0.45,0.99)) 
 ```
 
-# 2. Variabilidad
+## 2. Variabilidad
 
 Estudia la distribución de los valores de la serie, analizando si estos se encuentran más o menos concentrados, o más o menos dispersos. Existen diversas medidas de dispersión, entre las más utilizadas podemos destacar las siguientes:
 
@@ -153,7 +153,7 @@ sd(faithful$waiting)
 
 Nótese que ni la varianza ni la desviación estándar pueden ser negativas y son cero sólo cuando todos los datos tienen el mismo valor que no es otro que el valor de la media.
 
-# 3. Valores extremos
+## 3. Valores extremos
 
 Los diagramas de Caja-Bigotes (boxplots o box and whiskers) son una presentación visual que describe varias características importantes, al mismo tiempo, tales como la dispersión, la tendencia central y simetría. Tambien se usa para detectar valores atípicos (extremos).
 
@@ -165,7 +165,7 @@ boxplot(faithful$eruptions)
 boxplot(faithful$waiting)
 ```
 
-# 4. Forma de los datos o distribución de frecuencias
+## 4. Forma de los datos o distribución de frecuencias
 
 
 La distribución de frecuencias es el principal factor en la determinación de las medidas que mejor describen a los datos. Así que debería ser la primera característica a revisar. Normalmente, se concluye que los datos son **simétricos** o **asimétricos** (con sesgo positivo o negativo) o tambien se clasifica a los datos como **unimodales**, **bimodales** o **multimodales**.
@@ -192,7 +192,7 @@ hist(faithful$waiting)
 
 ![forma-datos](/probabilidad/figs/06_forma-datos.PNG)
 
-#  5. Agrupamientos o clústers 
+##  5. Agrupamientos o clústers 
 
 La agrupación implica que los datos tienden a acumularse alrededor de ciertos valores, por ejemplo, los salarios anuales de una empresa pueden agrupars alrededor de 5000 pesos para trabajadores no calificados, 10000 pesos para trabajadores calificados y 15000 pesos para los administrativos. Los agrupamientos pueden detectarse en un histograma o un gráfico de puntos.
 
@@ -202,7 +202,7 @@ plot(faithful$eruptions)
 hist(faithful$eruptions)
 ```
 
-# 6. Correlación
+## 6. Correlación
 
 La correlación indica la fuerza y la dirección de una relación lineal entre dos variables. Se considera que dos variables cuantitativas están correlacionadas cuando los valores de una de ellas varían sistemáticamente con respecto a los valores de la otra: si tenemos dos variables (A y B) existe correlación positiva entre ellas si al disminuir los valores de A lo hacen también los de B y viceversa y tenemos una relación negativa si al disminuir los valores de A aumentanlos de B o viceversa. La correlación entre dos variables no implica, por sí misma, ninguna relación de causalidad.
 
@@ -239,7 +239,7 @@ boxplot(faithful$waiting)
 hist(faithful$waiting)
 ```
 
-# Cuarteto de Anscombe 
+## Cuarteto de Anscombe 
 
 https://es.wikipedia.org/wiki/Cuarteto_de_Anscombe
 
