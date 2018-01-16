@@ -206,7 +206,7 @@ hist(faithful$eruptions)
 
 La correlación indica la fuerza y la dirección de una relación lineal entre dos variables. Se considera que dos variables cuantitativas están correlacionadas cuando los valores de una de ellas varían sistemáticamente con respecto a los valores de la otra: si tenemos dos variables (A y B) existe correlación positiva entre ellas si al disminuir los valores de A lo hacen también los de B y viceversa y tenemos una relación negativa si al disminuir los valores de A aumentanlos de B o viceversa. La correlación entre dos variables no implica, por sí misma, ninguna relación de causalidad.
 
-![correlacion](/probabilidad/figs/07_correlacion.PNG)
+![correlacion](/probabilidad/figs/07_correlacion.png)
 
 La herramienta que sirve para visualizar la relación entre dos variables se llama **diagrama de dispersión**
 
