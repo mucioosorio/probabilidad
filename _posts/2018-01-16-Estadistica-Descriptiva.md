@@ -134,7 +134,7 @@ Mide la distancia (cuadrada) existente entre los valores de la serie y la media.
 
 $$s^2=\frac{\sum_{i=1}^{n}\left(x_i-\bar{x}\right)^2}{n-1}$$
 
-$$\sigma^2=\frac{\sum_{i=1}^{n}\left(x_i-\mu\right)^2}{n-1}$$
+$$\sigma^2=\frac{\sum_{i=1}^{N}\left(x_i-\mu\right)^2}{N}$$
 
 ```R
 var(faithful$eruptions)
