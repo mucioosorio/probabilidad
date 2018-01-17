@@ -226,12 +226,6 @@ $$ r = \frac{n \sum{XY}-(\sum{X}\sum{Y})}{\sqrt{ [n \sum{x^2}-(\sum{x})^2 ][n \s
 cor(faithful$eruptions,faithful$waiting)
 ```
 
-
-```R
-matrix(c(1,1,2,3), 2, 2, byrow = TRUE)
-```
-
-
 ```R
 layout(matrix(c(1,2,3,3), 2, 2, byrow = TRUE))
 boxplot(faithful$eruptions)
@@ -242,7 +236,7 @@ hist(faithful$waiting)
 
 1. Cálculo de medidas de tendencia central y de variabilidad. http://mucioosorio.github.io/probabilidad/doc/tendencia_central_variabilidad.pdf
 
-2. Construcción de histograma. http://mucioosorio.github.io/probabilidad/doc/histograma.pdf
+2. Construcción de histograma. http://mucioosorio.github.io/probabilidad/doc/Histograma.pdf
 
 
 
