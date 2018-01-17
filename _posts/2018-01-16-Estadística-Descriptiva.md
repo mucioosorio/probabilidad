@@ -238,6 +238,13 @@ boxplot(faithful$eruptions)
 boxplot(faithful$waiting)
 hist(faithful$waiting)
 ```
+## Material de apoyo
+
+1. Cálculo de medidas de tendencia central y de variabilidad. http://mucioosorio.github.io/probabilidad/doc/tendencia_central_variabilidad.pdf
+
+2. Construcción de histograma. http://mucioosorio.github.io/probabilidad/doc/histograma.pdf
+
+
 
 ## Cuarteto de Anscombe 
 
