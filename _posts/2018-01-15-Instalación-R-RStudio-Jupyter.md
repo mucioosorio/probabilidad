@@ -37,6 +37,12 @@ devtools::install_github('IRkernel/IRkernel')
 IRkernel::installspec()
 ```
 
+En caso de no realizarce las instalaciones, pruebe con:
+```R
+devtools::install_github('IRkernel/IRkernel', force = T)
+```
 ![kernel_r](/probabilidad/figs/05_instalacion-kernelr.PNG)
+
+
 
 Finalmente, para poder trabajar en **Jupyter**, abrá la aplicación desde **Anaconda Navigator** o desde el menú de inicio de windows.
