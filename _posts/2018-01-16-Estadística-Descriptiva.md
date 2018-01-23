@@ -110,6 +110,13 @@ quantile(faithful$eruptions,0.10)
 quantile(faithful$waiting,c(0.10,0.45,0.99)) 
 ```
 
+Para calcular los percentiles existen varios métodos. En **R**, use el tipo 2 para obtener los mismos resultados que los obtenidos en clase.
+
+```R
+quantile(faithful$eruptions, type = 2)
+quantile(faithful$waiting, type = 2)
+```
+
 ## 2. Variabilidad
 
 Estudia la distribución de los valores de la serie, analizando si estos se encuentran más o menos concentrados, o más o menos dispersos. Existen diversas medidas de dispersión, entre las más utilizadas podemos destacar las siguientes:
