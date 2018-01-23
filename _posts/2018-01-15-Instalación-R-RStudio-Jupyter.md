@@ -32,14 +32,9 @@ Ahora, inicie **R Studio** y ejecute en la consola lo siguiente. Hasta que no ej
 
 ```R
 install.packages(c('repr', 'IRdisplay', 'evaluate', 'crayon', 'pbdZMQ', 'devtools', 'uuid', 'digest'))
-devtools::install_github('IRkernel/IRkernel')
+devtools::install_github('IRkernel/IRkernel',force=TRUE)
 
 IRkernel::installspec()
-```
-
-En caso de no realizarce las instalaciones, pruebe con:
-```R
-devtools::install_github('IRkernel/IRkernel', force = T)
 ```
 ![kernel_r](/probabilidad/figs/05_instalacion-kernelr.PNG)
 
