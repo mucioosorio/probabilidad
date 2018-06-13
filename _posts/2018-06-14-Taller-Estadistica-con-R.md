@@ -26,7 +26,7 @@ Author: Mucio Osorio Sánchez
 
 Logo de R|Logo de R Studio
 ---------|---------------
-![Logo R](/probabilidad/figs/rlogo.png#center)|![R Studio](/probabilidad/figs/RStudio-Logo-Blue-Gray-125.png#right)
+![Logo R](/probabilidad/figs/Rlogo.png#center)|![R Studio](/probabilidad/figs/RStudio-Logo-Blue-Gray-125.png#right)
 
 
 ## “ R es un lenguaje y ambiente de programación libre para visualización y análisis estadístico de datos”.
@@ -86,7 +86,7 @@ R Studio esta dividido en 4 partes:
 * Espacio de trabajo
 * Gráficos, ayuda o archivos
 
-![Pantalla RStudio](/probabilidad/figs/pantallarstudio.png)
+![Pantalla RStudio](/probabilidad/figs/pantallaRstudio.png)
 
 # Directorio de trabajo
 
