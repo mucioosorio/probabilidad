@@ -26,18 +26,18 @@ Author: Mucio Osorio Sánchez
 
 Logo de R|Logo de R Studio
 ---------|---------------
-![Logo R](/prob/figs/rlogo.png#center)|![R Studio](/prob/figs/RStudio-Logo-Blue-Gray-125.png#right)
+![Logo R](/probabilidad/figs/rlogo.png#center)|![R Studio](/probabilidad/figs/RStudio-Logo-Blue-Gray-125.png#right)
 
 
 ## “ R es un lenguaje y ambiente de programación libre para visualización y análisis estadístico de datos”.
 
-![](mejor.png)
+![](/probabilidad/figs/mejor.png)
 
 # ¿Por qué R?
 
 ## Búsqueda de R en el tiempo
 
-![](/prob/figs/porqR.png)
+![](/probabilidad/figs/porqR.png)
 
 ## Ventajas
 
@@ -49,16 +49,16 @@ Logo de R|Logo de R Studio
 
 ## ¿Quiénes usan R?
 
-![](/prob/figs/companies_r.PNG)
+![](/probabilidad/figs/companies_r.PNG)
 
 ## Gráficos
 
-![](/prob/figs/porq3.png)
+![](/probabilidad/figs/porq3.png)
 
-![](/prob/figs/porq4.png)
+![](/probabilidad/figs/porq4.png)
 
 
-![](/prob/figs/porq5.png)
+![](/probabilidad/figs/porq5.png)
 
 # Desventajas
 
@@ -70,12 +70,12 @@ Logo de R|Logo de R Studio
 
 En la dirección https://cran.r-project.org/ podrá descargar R para sistemas operativos Linux, Mac OS y Windows.
 
-![](/prob/figs/descarga_r.gif)
+![](/probabilidad/figs/descarga_r.gif)
 
 
 R Studio es un ambiente de desarrollo integrado (IDE) que facilita la programación en R. En la dirección https://www.rstudio.com/ se descarga la versión de R Studio, disponible tambien para sistemas operativos linux, OS y windows.
 
-![](/prob/figs/descarga_rstudio.gif)
+![](/probabilidad/figs/descarga_rstudio.gif)
 
 
 
@@ -86,7 +86,7 @@ R Studio esta dividido en 4 partes:
 * Espacio de trabajo
 * Gráficos, ayuda o archivos
 
-![Pantalla RStudio](/prob/figs/pantallarstudio.png)
+![Pantalla RStudio](/probabilidad/figs/pantallarstudio.png)
 
 # Directorio de trabajo
 
