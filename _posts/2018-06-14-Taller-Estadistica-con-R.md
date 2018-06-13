@@ -49,7 +49,7 @@ Logo de R|Logo de R Studio
 
 ## ¿Quiénes usan R?
 
-![](/probabilidad/figs/companies_r.PNG)
+![](/probabilidad/figs/companies_r.png)
 
 ## Gráficos
 
