@@ -26,7 +26,7 @@ Author: Mucio Osorio Sánchez
 
 Logo de R|Logo de R Studio
 ---------|---------------
-![Logo R](rlogo.png#center)|![R Studio](RStudio-Logo-Blue-Gray-125.png#right)
+![Logo R](/prob/figs/rlogo.png#center)|![R Studio](/prob/figs/RStudio-Logo-Blue-Gray-125.png#right)
 
 
 ## “ R es un lenguaje y ambiente de programación libre para visualización y análisis estadístico de datos”.
@@ -37,7 +37,7 @@ Logo de R|Logo de R Studio
 
 ## Búsqueda de R en el tiempo
 
-![](porqR.png)
+![](/prob/figs/porqR.png)
 
 ## Ventajas
 
@@ -49,16 +49,16 @@ Logo de R|Logo de R Studio
 
 ## ¿Quiénes usan R?
 
-![](companies_r.PNG)
+![](/prob/figs/companies_r.PNG)
 
 ## Gráficos
 
-![](porq3.png)
+![](/prob/figs/porq3.png)
 
-![](porq4.png)
+![](/prob/figs/porq4.png)
 
 
-![](porq5.png)
+![](/prob/figs/porq5.png)
 
 # Desventajas
 
@@ -70,12 +70,12 @@ Logo de R|Logo de R Studio
 
 En la dirección https://cran.r-project.org/ podrá descargar R para sistemas operativos Linux, Mac OS y Windows.
 
-![](descarga_r.gif)
+![](/prob/figs/descarga_r.gif)
 
 
 R Studio es un ambiente de desarrollo integrado (IDE) que facilita la programación en R. En la dirección https://www.rstudio.com/ se descarga la versión de R Studio, disponible tambien para sistemas operativos linux, OS y windows.
 
-![](descarga_rstudio.gif)
+![](/prob/figs/descarga_rstudio.gif)
 
 
 
@@ -86,7 +86,7 @@ R Studio esta dividido en 4 partes:
 * Espacio de trabajo
 * Gráficos, ayuda o archivos
 
-![Pantalla RStudio](pantallarstudio.png)
+![Pantalla RStudio](/prob/figs/pantallarstudio.png)
 
 # Directorio de trabajo
 
@@ -97,7 +97,7 @@ R y R Studio tienen como directorio de trabajo la carpeta de **Documentos** de l
 
 Simbolo            |Operación
 -------------------|-------------
-+, -, *, / log() | suma, resta, producto, cociente logaritmo
++, -, *, / log()  |suma, resta, producto, cociente logaritmo
 %%, %/%, ^       |módulo, cociente entero, potencia
 ==, !=, !        |igual, distinto, no
 >, >=, <, <=     |mayor que, mayor o igual que, menor que, menor o igual que
