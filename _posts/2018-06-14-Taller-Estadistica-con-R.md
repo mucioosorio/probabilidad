@@ -325,6 +325,7 @@ summary(w)
 
 # ¿Qué pasa cuando hay valores faltantes?
 
+[Aqui los datos del archivo EjemploEstudiantes.csv](https://mucioosorio.github.io/probabilidad/data/EjemploEstudiantesNA.csv)
 En muchas ocasiones (casi siempre :) ) hay datos faltantes. Automaticamente, en R , toda celda con las letras NA es considerada un valor ausente.
 
 Para el uso de algunas funciones se debe informar a R de la existencia de valores extraviados.
