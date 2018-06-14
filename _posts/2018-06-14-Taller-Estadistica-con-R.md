@@ -170,6 +170,10 @@ w2
 
 ## Importar archivo csv
 
+[Aqui los datos del archivo EjemploEstudiantes.csv](http://mucioosorio.github.io/probabilidad/data/EjemploEstudiantes.csv)
+
+
+
 Para leer datos de un documento **csv** se usa la función **read.csv("nombre de archivo")**
 ```{r}
 # El siguiente código asigna al objeto w el archivo de datos EjemploEstudiantes.csv que se encuentra en el directorio "Documentos" y la opción header=T le indican a R que en el primer renglón se ubican los nombres de las variables.
@@ -333,6 +337,8 @@ ww<-read.csv("EjemploEstudiantesM_NA.csv",header=T)
 mean(ww$Matematicas,na.rm=T)
 summary(ww)
 ```
+
+
 
 Lugares para aprender
 https://www.r-bloggers.com/
