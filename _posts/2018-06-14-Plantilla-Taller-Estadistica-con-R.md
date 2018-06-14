@@ -1,5 +1,8 @@
-#TALLER ESTADISTICA CON R
+# TALLER ESTADISTICA CON R
 ################################################################################
+
+
+
 # R COMO CALCULADORA
 
 # ASIGNACION DE VALORES
