@@ -170,7 +170,7 @@ w2
 
 ## Importar archivo csv
 
-[Aqui los datos del archivo EjemploEstudiantes.csv](http://mucioosorio.github.io/probabilidad/data/EjemploEstudiantes.csv)
+[Aqui los datos del archivo EjemploEstudiantes.csv](https://mucioosorio.github.io/probabilidad/data/EjemploEstudiantes.csv)
 
 
 
