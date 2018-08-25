@@ -12,6 +12,8 @@ Mucio Osorio Sánchez
 
 Cub. 30 del CAD
 
+Tel. 4109000 ext 1730
+
 mucio.osorio@itson.edu.mx
 
 mucio.osorio@gmail.com
