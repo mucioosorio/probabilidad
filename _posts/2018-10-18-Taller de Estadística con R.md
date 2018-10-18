@@ -1,7 +1,11 @@
-0. Uso de R como calculadora
+# 0. Uso de R como calculadora
+
 +, -, *, / log() ^  suma, resta, producto, cociente logaritmo, potencia
+
 >, >=, <, <= mayor que, mayor o igual que, menor que, menor o igual que
+
 D(expression(log(x)), "x") Derivada de una función
+
 integrate(function(x) {1/((x+1)*sqrt(x))}, 1, 2) Integral definida
 
 
