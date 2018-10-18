@@ -10,6 +10,7 @@ integrate(function(x) {1/((x+1)*sqrt(x))}, 1, 2) Integral definida
 NOTA. En R, los comentarios se indican con el símbolo de número "#"
 
 Considere que se mide las estaturas de varias personas.Las respuestas son:  
+
 1.82 1.66 1.68 1.74 1.57 1.65 1.65 1.81 1.76 1.70 1.69 1.66 1.80 1.66 1.67 1.63 1.65
 1.69 1.76 1.57 1.63 1.62 1.72 1.75 1.77 1.72 1.68 1.69 1.73 1.63 1.66 1.84 1.50 1.71
 1.61 1.72 1.63 1.69 1.60 1.77
