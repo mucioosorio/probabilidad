@@ -1,5 +1,6 @@
 # 0. Uso de R como calculadora
 
+
 +, -, *, / log() ^  suma, resta, producto, cociente logaritmo, potencia
 
 >, >=, <, <= mayor que, mayor o igual que, menor que, menor o igual que
