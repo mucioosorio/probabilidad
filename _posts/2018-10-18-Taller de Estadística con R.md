@@ -1,9 +1,9 @@
 # 0. Uso de R como calculadora
 
 
-+, -, *, / log() ^  suma, resta, producto, cociente logaritmo, potencia
+suma, resta, producto, cociente logaritmo, potencia            +, -, *, / log() ^  
 
->, >=, <, <= mayor que, mayor o igual que, menor que, menor o igual que
+mayor que, mayor o igual que, menor que, menor o igual que     >, >=, <, <= 
 
 D(expression(log(x)), "x") Derivada de una función
 
