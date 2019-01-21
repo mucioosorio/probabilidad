@@ -1,4 +1,4 @@
-## Bases de datos a usar en el curso
+## Algunas bases de datos a usar en el curso
 
 ## Estación meteorológica ITSON
 
@@ -10,6 +10,7 @@
 Datos del indice de glucosa de personas de Nogales, Sonora.Obtenidospor UNISON.
 
 http://mucioosorio.github.io/probabilidad/data/glucosa.csv
+
 ## Estudiantes ITSON
 
 http://mucioosorio.github.io/probabilidad/data/Encuesta.csv
