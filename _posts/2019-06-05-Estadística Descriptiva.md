@@ -8,7 +8,7 @@ R code
 
 ```
 
-En RStudio, los scripts (programas o funciones) deberan escribirse en la ventana del editor de código. 
+En RStudio, el código (,scripts, programas o funciones) deberan escribirse en la ventana del editor de código. 
 
 ![RStudio](/probabilidad/figs/rstudio.png)
 
