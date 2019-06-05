@@ -1,3 +1,5 @@
+En la computadora deben estar instalados R y Rstudio.
+
 Instalar R. Descargar desde ["Descarga de R"](https://cran.r-project.org/bin/windows/base/)
 
 ![Instalar R](/probabilidad/figs/descarga_r.gif)
