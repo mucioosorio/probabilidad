@@ -2,6 +2,12 @@
 ## ESTADISTICA DESCRIPTIVA: LAS SEIS CARACTERÍSTICAS DE LOS DATOS.
 
 En estas notas se estudian las herramientas estadísticas esenciales en el análisis descriptivo de los datos y que estan basadas en el artículo  ["The Six Characteristics of a Dataset"](http://curriculum.qed.qld.gov.au/kla/eda/). De aquí en adelante el texto que se encuentra en los rectángulos es código de **lenguaje R** que puede ejecutar en la **consola de R**, **R Studio** o **Jupyter**. 
+
+En RStudio, los scripts (programas o funciones) deberan escribirse en la ventana del editor de código. 
+![rstudio](rstudio.PNG)
+
+
+
 ```R
 R code
 
@@ -23,7 +29,6 @@ En el proceso Estadístico, una vez que se han conseguido los datos lo primero q
 El conjunto de datos del geyser ["Old Faithful"](https://en.wikipedia.org/wiki/Old_Faithful) consta de 272 medidas de la duración de la exhalación (min) del geyser y del tiempo entre exhalaciones (min). 
 
 Puede accederse a ellos desde R solo escribiendo en la consola *faithful* y ejecutando dicha instrucción. Tiene características interesantes que servirán para ejemplificar las herramientas de la Estadística .  
-
 
 ```R
 x <- faithful
