@@ -36,7 +36,7 @@ El conjunto de datos del geyser ["Old Faithful"](https://en.wikipedia.org/wiki/O
 Puede accederse a ellos desde R solo escribiendo en la consola *faithful* y ejecutando dicha instrucción. Tiene características interesantes que servirán para ejemplificar las herramientas de la Estadística .  
 
 ```R
-x <- faithful
+x <- faithful    #tambien puede usarse x = faithful
 x
 ```
 
@@ -58,8 +58,8 @@ En R, éstas medidas pueden obtenerse de diversas maneras a través de los disti
 
 
 ```R
-min(faithful$eruptions)
-min(faithful$waiting)
+min(faithful$eruptions)     # lo que se escribe después del simbolo $ es la columna que se analizará
+min(faithful$waiting)       
 ```
 
 * Máximo. El valor más grande de los datos.
