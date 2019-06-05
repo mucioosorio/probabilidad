@@ -4,8 +4,8 @@
 En estas notas se estudian las herramientas estadísticas esenciales en el análisis descriptivo de los datos y que estan basadas en el artículo  ["The Six Characteristics of a Dataset"](http://curriculum.qed.qld.gov.au/kla/eda/). De aquí en adelante el texto que se encuentra en los rectángulos es código de **lenguaje R** que puede ejecutar en la **consola de R**, **R Studio** o **Jupyter**. 
 
 En RStudio, los scripts (programas o funciones) deberan escribirse en la ventana del editor de código. 
-![rstudio](rstudio.PNG)
 
+![RStudio](/probabilidad/figs/rstudio.PNG)
 
 
 ```R
