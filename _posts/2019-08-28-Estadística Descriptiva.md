@@ -1,3 +1,10 @@
+---
+title: " "
+author: "Mucio"
+output:
+  html_document:
+    self_contained: false
+---
 
 ```{r, include=FALSE}
 tutorial::go_interactive()
