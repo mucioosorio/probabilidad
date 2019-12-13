@@ -1,0 +1,26 @@
+---
+title: "Consola R DataCamp"
+author: "Mucio"
+output:
+  html_document:
+    self_contained: false
+---
+Solo descargar el paquete "tutorial" y agregar esto en cada notebook
+
+```{r, include=FALSE}
+tutorial::go_interactive()
+```
+
+Ejecute lo siguiente:
+
+```{r}
+a <- 2
+b <- 3
+
+a + b
+```
+```{r}
+hist(rnorm(3000))
+```
+
+
