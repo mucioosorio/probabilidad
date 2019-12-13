@@ -40,7 +40,7 @@ El conjunto de datos del geyser ["Old Faithful"](https://en.wikipedia.org/wiki/O
 
 Puede accederse a ellos desde R solo escribiendo en la consola *faithful* y ejecutando dicha instrucción. Tiene características interesantes que servirán para ejemplificar las herramientas de la Estadística .  
 
-```R
+```{r}
 x <- faithful    #tambien puede usarse x = faithful
 x
 ```
