@@ -1,14 +1,4 @@
----
-title: " "
-author: "Mucio"
-output:
-  html_document:
-    self_contained: false
----
 
-```{r, include=FALSE}
-tutorial::go_interactive()
-```
 
 ## ESTADISTICA DESCRIPTIVA: LAS SEIS CARACTERÍSTICAS DE LOS DATOS.
 
@@ -40,7 +30,7 @@ El conjunto de datos del geyser ["Old Faithful"](https://en.wikipedia.org/wiki/O
 
 Puede accederse a ellos desde R solo escribiendo en la consola *faithful* y ejecutando dicha instrucción. Tiene características interesantes que servirán para ejemplificar las herramientas de la Estadística .  
 
-```{r}
+```R
 x <- faithful    #tambien puede usarse x = faithful
 x
 ```
