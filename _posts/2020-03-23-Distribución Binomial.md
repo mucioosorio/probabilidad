@@ -15,13 +15,14 @@ Instrucciones.
 3. cite un ejemplo donde use la distribución binomial
 
 
+video 1
+https://www.youtube.com/watch?v=Nl7BsFe4xmY
 
-<iframe src="https://www.youtube.com/watch?v=Nl7BsFe4xmY"> </iframe>
+video 2
+https://www.youtube.com/watch?v=G8l4GwydS8s
 
-<iframe src="https://www.youtube.com/watch?v=G8l4GwydS8s"> </iframe>
-
-<iframe src="https://www.youtube.com/watch?v=Vps5jvmJvxg"> </iframe>
-
+video 3
+https://www.youtube.com/watch?v=Vps5jvmJvxg
 
 * Tambien debe resolver manualmente los ejercicios del video 3.
 
