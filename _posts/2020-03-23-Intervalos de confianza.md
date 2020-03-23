@@ -1,5 +1,5 @@
 ---
-title: "R Notebook"
+title: "Intervalos de confianza. Curso: Métodos Estadísticos"
 output: html_notebook
 ---
 
