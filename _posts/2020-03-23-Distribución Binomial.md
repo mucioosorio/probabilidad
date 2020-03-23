@@ -34,3 +34,14 @@ ${n}\choose{r}$ $= \frac {n!}{(n-k)! k!}$
 
 y en su calculadora solo habrá que usar nCr
 
+
+NOTA. Esta actividad se realizará hasta el miercoles 25.
+
+Se debe entregar lo siguiente:
+* Resumen de la distribución binomial
+* Ejercicios resueltos del video 3
+
+LA fecha de entrega es regresando de vacaciones. Tentativamente 20 de abril.
+
+
+
