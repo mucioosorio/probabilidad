@@ -16,11 +16,11 @@ Instrucciones.
 
 
 
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=Nl7BsFe4xmY"> </iframe>
+<iframe src="https://www.youtube.com/watch?v=Nl7BsFe4xmY"> </iframe>
 
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=G8l4GwydS8s"> </iframe>
+<iframe src="https://www.youtube.com/watch?v=G8l4GwydS8s"> </iframe>
 
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=Vps5jvmJvxg"> </iframe>
+<iframe src="https://www.youtube.com/watch?v=Vps5jvmJvxg"> </iframe>
 
 
 * Tambien debe resolver manualmente los ejercicios del video 3.
