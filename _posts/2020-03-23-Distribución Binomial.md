@@ -1,5 +1,5 @@
 ---
-title: "Distibución binomial"
+title: "Distibución binomial: Curso: Probabilidad y Estadística"
 output: html_notebook
 ---
 
