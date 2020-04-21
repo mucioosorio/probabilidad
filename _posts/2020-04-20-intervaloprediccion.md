@@ -15,5 +15,5 @@ Pues bien, para elaborar un intervalo de predicción pueden usarse tambien vario
 
 1. El primero que revisaremos es cuando los datos son normales:
 
-![Prediccion_Simetrico](/probabilidad/figs/prediccion.png)
+![Prediccion_Simetrico](/probabilidad/figs/prediccion.PNG)
 
