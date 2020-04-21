@@ -25,7 +25,7 @@ En estas situaciones puede construirse un intervalo de confianza para la mediana
 
 
 
-![exponencial](probabilidad/figs/exponencial.png)
+![exponencial](probabilidad/figs/exponencial.PNG)
 
 
 En R, el intervalo se puede calcular así:
