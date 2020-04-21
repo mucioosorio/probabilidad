@@ -23,9 +23,7 @@ shapiro.test(y)
 
 En estas situaciones puede construirse un intervalo de confianza para la mediana de la siguiente manera:
 
-
-
-![exponencial](probabilidad/figs/exponencial.PNG)
+![exponencial](/probabilidad/figs/exponencial.PNG)
 
 
 En R, el intervalo se puede calcular así:
