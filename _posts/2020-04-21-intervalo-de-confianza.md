@@ -1,6 +1,7 @@
 ---
 title: "Inferencia Estadística: Intervalos de confianza del promedio de una población"
 output: html_notebook
+mathjax: true
 ---
 
 La inferencia Estadística es la parte de la Estadística que se encarga de obtener conclusiones de una población solo con la información de una muestra, incluyendo una medida de la confianza de los resultados (probabilidad).
