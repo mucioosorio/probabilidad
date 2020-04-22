@@ -33,15 +33,15 @@ El maestro establece una confianza de 95%.
 
 Para saber por donde se ubicará la estatura promedio de todos los estudiantes ($$\mu$$), lo único que se tiene que hacer es:
 
-1. calcular el promedio de la muestra ($$\bar{x}$$)
+1.calcular el promedio de la muestra ($$\bar{x}$$)
 
 El promedio es 1.67 m
 
-2. Calcular la desviación estándar (s)
+2.Calcular la desviación estándar (s)
 
 La desviación estándar de las estaturas es 0.05 m
 
-3. Según la confianza el valor de $$Z_{\alpha /2}$$ será cómo sigue:
+3.Según la confianza el valor de $$Z_{\alpha /2}$$ será cómo sigue:
 
 * 99% --------- 2.58
 * 95% --------- 1.96
@@ -49,7 +49,7 @@ La desviación estándar de las estaturas es 0.05 m
 
 En este caso cómo la confianza se establece en 95% el valor de **z** será 1.96.
 
-4. Luego sustituimos en la fórmula del intervalo:
+4.Luego sustituimos en la fórmula del intervalo:
 
 $$\bar{x}\pm z_{\alpha/2}\left(\dfrac{s}{\sqrt{n}}\right)$$
 
@@ -57,7 +57,8 @@ $$1.67 + 1.96 * 0.05 /\sqrt{30} = 1.69$$
 
 
 $$1.67 - 1.96 * 0.05 /\sqrt{30} = 1.65 $$
-5. Finalmente la interpretación será:
+
+5.Finalmente la interpretación será:
 
 Al 95% de confianza, la estatura promedio de TODOS los alumnos de ITSON se estima que está entre 1.65 m y 1.69m.
 
