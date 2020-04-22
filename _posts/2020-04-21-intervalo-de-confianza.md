@@ -19,7 +19,7 @@ Esto es precisamente una herramienta de la Estadística que se llama Intervalo d
 Cuando se requiere estimar al promedio de una población $\mu$ con una confianza de $100(1-\alpha)%$ de confianza con la información de una muestra obtenida al azar de manera simple aleatoria o sistemática aleatoria se usa:
 
 
-$\bar{x}\pm z_{\alpha/2}\left(\dfrac{s}{\sqrt{n}}\right)$
+$$\bar{x}\pm z_{\alpha/2}\left(\dfrac{s}{\sqrt{n}}\right)$$
 
 
 Ejemplo. Un maestro quiere saber la estatura promedio de todos los alumnos ITSON. No puede medir a todos los alumnos así que decide seleccionar una muestra de 30 estudiantes cuya estatura se muestra a continuación
