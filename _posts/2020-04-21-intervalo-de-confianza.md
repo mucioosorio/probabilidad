@@ -31,4 +31,4 @@ Ejemplo. Un maestro quiere saber la estatura promedio de todos los alumnos ITSON
 
 Para saber por donde se ubicará la estatura promedio de todos los estudiantes ($\mu$), lo único que se tiene que hacer es:
 
-1. calcular el promedio de la muestra ($\bar{x}$)
+1. calcular el promedio de la muestra ($$\bar{x}$$)
