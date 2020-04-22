@@ -54,6 +54,8 @@ En este caso cómo la confianza se establece en 95% el valor de **z** será 1.96
 $$\bar{x}\pm z_{\alpha/2}\left(\dfrac{s}{\sqrt{n}}\right)$$
 
 $$1.67 + 1.96 * 0.05 /\sqrt{30} = 1.69$$
+
+
 $$1.67 - 1.96 * 0.05 /\sqrt{30} = 1.65 $$
 5. Finalmente la interpretación será:
 
