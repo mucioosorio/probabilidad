@@ -73,7 +73,7 @@ Ejercicios.
 
 Construya el intervalo de confianza de la calificación promedio de los alumnos ITSON e interprételo.
 
-* En una industria se pesaron 30 bolsas de botanas:
+* En una industria se pesaron 35 bolsas de botanas:
 
 98  96 102 100  99 104  99 100 101 101  98  97  95  99  99 102
 101 104  99 100 102 100 100  98 102 100  99 100 100  99 102 103
