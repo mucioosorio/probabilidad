@@ -91,6 +91,7 @@ Construya e interpréte el intervalo de confianza del rendimiento promedio al 99
 
 Asignación para entregar como máximo hasta el viernes 24 de abril.
 
-Debe entregarse aqui: https://forms.gle/euEwjZc15LRSYcN89
+Debe entregarse aqui:[https://forms.gle/euEwjZc15LRSYcN89](https://forms.gle/euEwjZc15LRSYcN89)
+
 
 Dudas: se atienden en el correo mucio.osorio@itson.edu.mx
