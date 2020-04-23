@@ -43,9 +43,9 @@ La desviación estándar de las estaturas es 0.05 m
 
 3.Según la confianza el valor de $$Z_{\alpha /2}$$ será cómo sigue:
 
-* 99% --------- 2.58
-* 95% --------- 1.96
-* 90% --------- 1.65
+* 99% --------- $$Z_{\alpha /2}=2.58$$
+* 95% --------- $$Z_{\alpha /2}=1.96$$
+* 90% --------- $$Z_{\alpha /2}=1.65$$
 
 En este caso cómo la confianza se establece en 95% el valor de **z** será 1.96.
 
