@@ -90,7 +90,7 @@ Si selecciona un siguiente árbol, ¿su edad en que intervalo estará? Al 95 % d
 Si se selecciona una parcela de otro agricultor ¿cual será su rendimiento? con un intervalo del 95%
 
 
-ENVIAR A MAS TARDAR EL VIERNES 24 DE ABRIL AL CORREO mucio.osorio@gmail.com
+ENVIAR A MAS TARDAR EL VIERNES 24 DE ABRIL en la pagina https://forms.gle/euEwjZc15LRSYcN89
 
 
 Dudas: Atendidas en la semana en el correo mucio.osorio@itson.edu.mx
