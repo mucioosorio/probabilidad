@@ -41,7 +41,7 @@ El promedio es 1.67 m
 
 La desviación estándar de las estaturas es 0.05 m
 
-3.Según la confianza el valor de $$Z_{\alpha /2}$$ será cómo sigue:
+3.Según la confianza el valor de $$Z_{\alpha /2}$$ será cómo sigue (siempre):
 
 * 99% --------- $$Z_{\alpha /2}=2.58$$
 * 95% --------- $$Z_{\alpha /2}=1.96$$
