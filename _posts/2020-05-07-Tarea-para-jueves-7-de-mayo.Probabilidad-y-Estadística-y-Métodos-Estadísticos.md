@@ -36,6 +36,7 @@ Para poder responder a ese cuestionamiento deben seleccionarse muestras aleatori
 Hay un 10.45% de mujeres zurdas en la muestra:
 
 $$\hat{p}_1=\frac{x_1}{n_1}=\frac{23}{220}=0.1045$$
+
 y un 10% de hombres zurdos en la muestra:
 
 $$\hat{p}_2=\frac{x_2}{n_2}=\frac{20}{200}=0.10$$
