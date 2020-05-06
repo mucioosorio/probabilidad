@@ -72,6 +72,54 @@ Al 95% de confianza, la proporción de mujeres zurdas y la proporción de hombre
 Note que la conclusión fue hecha considerando a la población.
 
 
+Ejemplo 2. La porporción de votantes a favor del candidato A es mayor que la proporción de votantes del candidato B? Use 95% de confianza para responder.
+
+Suponga que en una muestra de 1000 personas,  340 dijeron que votarían por A. En otra muestra de 1000 personas 450 dijeron que votarían por B.
+
+
+1.Calcular el porcentaje de exitos en las muestras ($$\hat{p}_1~y~\hat{p}_2$$)
+
+Si etiquetamos a la primera muestra como 1 (es indiferente cuál es 1 o 2). Hay un 34% de la muestra que votaría por A:
+
+$$\hat{p}_1=\frac{x_1}{n_1}=\frac{340}{1000}=0.340$$
+
+y un 45% de la muestra 2 votaría por B:
+
+$$\hat{p}_2=\frac{x_2}{n_2}=\frac{450}{1000}=0.45$$
+
+
+2.Según la confianza el valor de $$Z_{\alpha /2}$$ será cómo sigue:
+
+* 99% --------- 2.58
+* 95% --------- 1.96
+* 90% --------- 1.65
+
+En este caso si se establece la confianza en 95% el valor de **z** será 1.96.
+
+3.Luego sustituimos en la fórmula del intervalo:
+
+$$(\hat{p}_{1}-\hat{p}_{2})\pm z_{\alpha/2} \sqrt{\frac{\hat{p}_{1}(1-\hat{p}_{1})}{n_1}+\frac{\hat{p}_{2}(1-\hat{p}_{2})}{n_2}}$$
+
+Primero, el límite inferior del intervalo:
+
+$$(0.34 - 0.45)-1.96* \sqrt{\frac{0.34(1-0.34)}{1000}+\frac{0.45(1-0.45)}{1000}} = -0.153$$
+
+
+Ahora el límite superior:
+
+$$(0.34 - 0.45)+1.96* \sqrt{\frac{0.34(1-0.34)}{1000}+\frac{0.45(1-0.45)}{1000}} = -0.067$$
+
+
+4.Finalmente la interpretación será:
+
+El intervalo va de -0.153 a -0.067 o de -15.3% hasta -6.7%. Note que el 0 (cero) NO esta contenido en el intervalo y que los dos límites son negativos, por lo que se puede decir que:
+
+Al 95% de confianza, la proporción que votará por A es menor que la proporción de votantes de B.
+
+¿Qué tan mas pequeña?, pues de 6.7% a 15.3% más pequeña.
+
+Si las etiquetas 1 y 2 se cambiaran, los dos intervalos serían positivos y eso nos llevaría a la misma conclusión, la proporción de votantes a favor de B es mayor (de 6.7% a 15.3%)que la que está a favor de A.
+
 
 Ejercicios.
 
