@@ -31,7 +31,7 @@ Ejemplo. Se quiere saber si la proporción de mujeres zurdas en ITSON $$(P_1)$$ 
 Para poder responder a ese cuestionamiento deben seleccionarse muestras aleatorias de hombres y mujeres. Suponga que se seleccionaron 200 hombres y 220 mujeres de los cuales 20 hombres y 23 mujeres resultaron ser zurdos.
 
 
-1. calcular el porcentaje de exitos en las muestras ($$\hat{p}_1~y~\hat{p}_2$$)
+1.Calcular el porcentaje de exitos en las muestras ($$\hat{p}_1~y~\hat{p}_2$$)
 
 Hay un 10.45% de mujeres zurdas en la muestra:
 
@@ -42,7 +42,7 @@ y un 10% de hombres zurdos en la muestra:
 $$\hat{p}_2=\frac{x_2}{n_2}=\frac{20}{200}=0.10$$
 
 
-2. Según la confianza el valor de $$Z_{\alpha /2}$$ será cómo sigue:
+2.Según la confianza el valor de $$Z_{\alpha /2}$$ será cómo sigue:
 
 * 99% --------- 2.58
 * 95% --------- 1.96
@@ -50,7 +50,7 @@ $$\hat{p}_2=\frac{x_2}{n_2}=\frac{20}{200}=0.10$$
 
 En este caso si se establece la confianza en 95% el valor de **z** será 1.96.
 
-3. Luego sustituimos en la fórmula del intervalo:
+3.Luego sustituimos en la fórmula del intervalo:
 
 $$(\hat{p}_{1}-\hat{p}_{2})\pm z_{\alpha/2} \sqrt{\frac{\hat{p}_{1}(1-\hat{p}_{1})}{n_1}+\frac{\hat{p}_{2}(1-\hat{p}_{2})}{n_2}}$$
 Primero, el límite inferior del intervalo:
@@ -63,7 +63,7 @@ Ahora el límite superior:
 $$(0.1045 - 0.10)+1.96* \sqrt{\frac{0.1045(1-0.1045)}{220}+\frac{0.10(1-0.10)}{200}} = 0.062$$
 
 
-4. Finalmente la interpretación será:
+4.Finalmente la interpretación será:
 
 El intervalo va de -0.054 a 0.062 o de -5.4% hasta 6.2%. Note que el 0 (cero) esta contenido en el intervalo, por lo que se puede decir que:
 
