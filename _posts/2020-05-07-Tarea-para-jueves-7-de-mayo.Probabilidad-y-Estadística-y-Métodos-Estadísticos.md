@@ -53,10 +53,10 @@ En este caso si se establece la confianza en 95% el valor de **z** será 1.96.
 3.Luego sustituimos en la fórmula del intervalo:
 
 $$(\hat{p}_{1}-\hat{p}_{2})\pm z_{\alpha/2} \sqrt{\frac{\hat{p}_{1}(1-\hat{p}_{1})}{n_1}+\frac{\hat{p}_{2}(1-\hat{p}_{2})}{n_2}}$$
+
 Primero, el límite inferior del intervalo:
 
 $$(0.1045 - 0.10)-1.96* \sqrt{\frac{0.1045(1-0.1045)}{220}+\frac{0.10(1-0.10)}{200}} = -0.054$$
-
 
 Ahora el límite superior:
 
