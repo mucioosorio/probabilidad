@@ -1,10 +1,10 @@
 ---
-title: "Intervalos de confianza de la diferencia de dos proporciones poblacionales $$(P_{1}-P_{2})$$"
+title: "Tarea para jueves 7 de mayo. Probabilidad y Estadística y Métodos Estadísticos."
 output: html_notebook
 ---
 
 
-
+## Intervalos de confianza de la diferencia de dos proporciones poblacionales $$(P_{1}-P_{2})$$
 
 Cuando se requiere saber si las proporciones de éxitos de dos poblaciones $$(P_{1}~y~ P_{2})$$son iguales o no, por ejemplo, la proporción de artículos defectuosos de la máquina 1 ($$P_1$$) y la proporción de artículos defectuosos de la máquina 2 ($$P_2$$), se construirá un intervalo de confianza para la diferencia de éstas proporciones como sigue:
 
@@ -16,13 +16,13 @@ o de manera breve
 
 $$(\hat{p}_{1}-\hat{p}_{2})\pm z_{\alpha/2} \sqrt{\frac{\hat{p}_{1}(1-\hat{p}_{1})}{n_1}+\frac{\hat{p}_{2}(1-\hat{p}_{2})}{n_2}}$$
 
-Si el intervalo construido contiene al 0 (es decir que un límite sea negativo y el otro positivo) se concluye que las dos proporciones de éxitos poblacionales son iguales.
+> Si el intervalo construido contiene al 0 (es decir que un límite sea negativo y el otro positivo) se concluye que las dos proporciones de éxitos poblacionales son iguales.
 
-Cuando el 0 no este contenido habrá dos maneras de interpretar:
+> Cuando el 0 no este contenido habrá dos maneras de interpretar:
 
-* Si los dos límites son positivos se dice que la proporción de éxitos en la población 1 es mayor que la proporción de éxitos en la población 2.
+> * Si los dos límites son positivos se dice que la proporción de éxitos en la población 1 es mayor que la proporción de éxitos en la población 2.
 
-* Si los dos límites son negativos se dice que la proporción de éxitos en la población 1 es menor que la proporción de éxitos en la población 2.
+> * Si los dos límites son negativos se dice que la proporción de éxitos en la población 1 es menor que la proporción de éxitos en la población 2.
 
 
 Ejemplo. Se quiere saber si la proporción de varones zurdos en ITSON ($$P_1$$) difiere o no de la proporción de mujeres zurdas en ITSON ($$P_2$$. 
