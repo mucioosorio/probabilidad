@@ -123,7 +123,7 @@ Si las etiquetas 1 y 2 se cambiaran, los dos intervalos serían positivos y eso 
 
 Ejercicios.
 
-1.En una muestra de 100 pacientes sometidos a un cierto tratamiento (A) se obtienen 80 curaciones y en otra muestra de pacientes sometidos a otro tratamiento (B) se obtienen 90 curaciones. 
+1.En una muestra de 100 pacientes sometidos a un cierto tratamiento (A) se obtienen 80 curaciones y en otra muestra de 100 pacientes sometidos a otro tratamiento (B) se obtienen 90 curaciones. 
 
 
 *Calcular e interpretar el intervalo de confianza del 95% de la diferencia de proporciones de pacientes que mejoran (P). Después de contruir el intervalo diga cuál es el mejor tratamiento.
