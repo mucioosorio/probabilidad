@@ -1,10 +1,9 @@
 ---
-title: "TAREA PARA JUEVES 7 DE MAYO. PROBABILIDAD    Y ESTADISTICA Y MÉTODOS ESTADÍSTICOS"
+title: "Intervalos de confianza de la diferencia de dos proporciones poblacionales $$(P_{1}-P_{2})$$"
 output: html_notebook
 ---
 
 
-Intervalos de confianza de la diferencia de dos proporciones poblacionales $$(P_{1}-P_{2})$$
 
 
 Cuando se requiere saber si las proporciones de éxitos de dos poblaciones $$(P_{1}~y~ P_{2})$$son iguales o no, por ejemplo, la proporción de artículos defectuosos de la máquina 1 ($$P_1$$) y la proporción de artículos defectuosos de la máquina 2 ($$P_2$$), se construirá un intervalo de confianza para la diferencia de éstas proporciones como sigue:
