@@ -91,11 +91,14 @@ Ejercicios.
 Asignación para entregar como máximo mañana jueves 7 de mayo. 
 
 Tareas que se reciban 1 día despues contarán 50%
+
 Tareas que se reciban 2 días despues contarán 25%
+
 Despues de dos diás solo contarán el 10%
 
 
 Aquí:
+
 [https://forms.gle/k2Y4o6WDixUwAHXx7](https://forms.gle/k2Y4o6WDixUwAHXx7)
 
 
