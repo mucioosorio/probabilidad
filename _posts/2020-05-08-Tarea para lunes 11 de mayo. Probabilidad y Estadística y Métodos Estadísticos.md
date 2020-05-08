@@ -102,6 +102,7 @@ Ejemplo 2. Para saber si el promedio de calificaciones de alumnos de dos univers
 Se obtuvo la siguiente información:
 
 $$\bar{x}_{A1}=8.9~~~~~~\bar{x}_{B2}=9$$
+
 $$s_{A1}=0.35~~~~~~s_{B2}=0.40$$
 
 
@@ -118,7 +119,6 @@ En este caso si se establece la confianza en 95% el valor de **z** será 1.96.
 2.Luego sustituimos en la fórmula del intervalo:
 
 $$(\hat{x}_{1}-\hat{x}_{2})\pm z_{\alpha/2} \sqrt{\frac{s_{1}^2}{n_1}+\frac{s_{2}^2}{n_2}}$$
-.1-(1.96-sqrt(.35^2/45+.4^2/50))
 
 Primero, el límite inferior del intervalo:
 
