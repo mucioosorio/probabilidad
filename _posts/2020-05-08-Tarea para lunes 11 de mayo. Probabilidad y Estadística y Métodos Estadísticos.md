@@ -56,6 +56,7 @@ Los cálculos para hacer el intervalo:
 Las mujeres de la muestra tienen un promedio y desviación estándar (valores redondeados a dos décimas):
 
 $$\bar{x}_{1}=1.64 ~y~s_1=0.04$$
+
 Los hombres de la muestra tienen un promedio y desviación estándar:
 
 $$\bar{x}_2=1.75 ~y~s_2=0.04$$
