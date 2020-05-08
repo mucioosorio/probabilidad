@@ -80,7 +80,7 @@ Primero, el límite inferior del intervalo:
 
 Observe que en el intervalo está la varianza y cómo se había calculado la desviación estándar, solo se eleva al cuadrado.
 
-$$(8.5-9)- 1.96* \sqrt{\frac{0.04^2}{35}+\frac{0.04^2}{35}}=-0.13$$
+$$(1.64-1.75) - 1.96* \sqrt{\frac{0.04^2}{35}+\frac{0.04^2}{35}}=-0.13$$
 
 
 Ahora el límite superior:
