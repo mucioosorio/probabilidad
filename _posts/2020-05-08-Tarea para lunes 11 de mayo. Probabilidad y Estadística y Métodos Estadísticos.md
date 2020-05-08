@@ -171,7 +171,9 @@ NOTA. en éste último ejercicio puede buscar en internet: " ejercicios de inter
 Asignación para entregar como máximo mañana lunes 11 de mayo. 
 
 Tareas que se reciban 1 día despues contarán 50%
+
 Tareas que se reciban 2 días despues contarán 25%
+
 Despues de dos diás solo contarán el 10%
 
 
