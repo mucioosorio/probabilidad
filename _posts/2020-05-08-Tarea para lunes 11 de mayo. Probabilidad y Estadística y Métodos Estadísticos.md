@@ -88,7 +88,7 @@ Ahora el límite superior:
 $$(1.64-1.75)+ 1.96* \sqrt{\frac{0.04^2}{35}+\frac{0.04^2}{35}}=-0.09$$
 
 
-4. Finalmente la interpretación será:
+4.Finalmente la interpretación será:
 
 El intervalo va de -0.13 m a -0.09 m o de -13 cm hasta -9 cm. Note que el 0 (cero) NO esta contenido en el intervalo y además los límites son negativos, por lo que se puede decir que:
 
@@ -119,6 +119,7 @@ En este caso si se establece la confianza en 95% el valor de **z** será 1.96.
 
 $$(\hat{x}_{1}-\hat{x}_{2})\pm z_{\alpha/2} \sqrt{\frac{s_{1}^2}{n_1}+\frac{s_{2}^2}{n_2}}$$
 .1-(1.96-sqrt(.35^2/45+.4^2/50))
+
 Primero, el límite inferior del intervalo:
 
 $$(8.9-9.0)- 1.96* \sqrt{\frac{0.35^2}{45}+\frac{0.40^2}{50}}=-0.051$$
@@ -129,7 +130,7 @@ Ahora el límite superior:
 $$(8.9-9.0)+ 1.96* \sqrt{\frac{0.35^2}{45}+\frac{0.40^2}{50}}=0.251$$
 
 
-3. Finalmente la interpretación será:
+3.Finalmente la interpretación será:
 
 El intervalo va de -0.051 puntos a 0.251 puntos. Note que el 0 (cero) esta contenido en el intervalo, por lo que se puede decir que:
 
@@ -160,7 +161,7 @@ y éstos otros los pesos de pollitos alimentados con el alimento B.
 
 Use una confianza de 90% para decir con cual artículo las ganancias promedio son mayores.
 
-3. investigue una situación en donde se deba hacer un intervalo para comparar dos promedios. Con datos inventados o investigados en internet. Realice el intervalo al 99% de confianza y haga sus conclusiones.
+3.investigue una situación en donde se deba hacer un intervalo para comparar dos promedios. Con datos inventados o investigados en internet. Realice el intervalo al 99% de confianza y haga sus conclusiones.
 
 NOTA. en éste último ejercicio puede buscar en internet: " ejercicios de intervalos de confianza de la diferencia de dos promedios"
 
