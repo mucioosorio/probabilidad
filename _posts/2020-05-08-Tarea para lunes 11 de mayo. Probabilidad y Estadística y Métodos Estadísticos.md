@@ -10,12 +10,12 @@ Intervalos de confianza de la diferencia de dos promedios poblacionales $$(\mu_{
 Cuando se requiere saber si los promedios de dos poblaciones $$(\mu_{1}~y~ \mu_{2})$$son iguales o no, por ejemplo, la estatura promedio de las mujeres ($$\mu_1$$) y la estatura promedio de los hombres ($$\mu_{2}$$), se construirá un intervalo de confianza para la diferencia de éstos promedios como sigue:
 
 
-$$(\hat{x}_{1}-\hat{x}_{2})- z_{\alpha/2} \sqrt{\frac{s_{1}^2}{n_1}+\frac{s_{2}^2}{n_2}} \leq \mu_{1}-\mu_{2}\leq (\hat{x}_{1}-\hat{x}_{2})+z_{\alpha/2} \sqrt{\frac{s_{1}^2}{n_1}+\frac{s_{2}^2}{n_2}}$$
+$$(\bar{x}_{1}-\bar{x}_{2})- z_{\alpha/2} \sqrt{\frac{s_{1}^2}{n_1}+\frac{s_{2}^2}{n_2}} \leq \mu_{1}-\mu_{2}\leq (\bar{x}_{1}-\bar{x}_{2})+z_{\alpha/2} \sqrt{\frac{s_{1}^2}{n_1}+\frac{s_{2}^2}{n_2}}$$
 
 o de manera breve
 
 
-$$(\hat{x}_{1}-\hat{x}_{2})\pm z_{\alpha/2} \sqrt{\frac{s_{1}^2}{n_1}+\frac{s_{2}^2}{n_2}}$$
+$$(\bar{x}_{1}-\bar{x}_{2})\pm z_{\alpha/2} \sqrt{\frac{s_{1}^2}{n_1}+\frac{s_{2}^2}{n_2}}$$
 
 > Si el intervalo construido contiene al 0 (es decir que un límite sea negativo y el otro positivo) se concluye que los dos promedios poblacionales son iguales.
 
@@ -74,7 +74,7 @@ En este caso si se establece la confianza en 95% el valor de **z** será 1.96.
 
 3.Luego sustituimos en la fórmula del intervalo:
 
-$$(\hat{x}_{1}-\hat{x}_{2})\pm z_{\alpha/2} \sqrt{\frac{s_{1}^2}{n_1}+\frac{s_{2}^2}{n_2}}$$
+$$(\bar{x}_{1}-\bar{x}_{2})\pm z_{\alpha/2} \sqrt{\frac{s_{1}^2}{n_1}+\frac{s_{2}^2}{n_2}}$$
 
 Primero, el límite inferior del intervalo:
 
@@ -118,7 +118,7 @@ En este caso si se establece la confianza en 95% el valor de **z** será 1.96.
 
 2.Luego sustituimos en la fórmula del intervalo:
 
-$$(\hat{x}_{1}-\hat{x}_{2})\pm z_{\alpha/2} \sqrt{\frac{s_{1}^2}{n_1}+\frac{s_{2}^2}{n_2}}$$
+$$(\bar{x}_{1}-\bar{x}_{2})\pm z_{\alpha/2} \sqrt{\frac{s_{1}^2}{n_1}+\frac{s_{2}^2}{n_2}}$$
 
 Primero, el límite inferior del intervalo:
 
