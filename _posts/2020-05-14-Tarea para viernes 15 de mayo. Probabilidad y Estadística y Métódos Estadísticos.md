@@ -66,13 +66,9 @@ Tiene que ver con lo cercano que están los puntos originales a una linea (ya se
 
 En este caso puede decirse que hay una relación fuerte.
 
-
-
-![Coeficiente de correlación](/probabilidad/figs/fuerza.png)
-
 Dado que es subjetivo hablar sobre la fuerza de la relación sólo con ver el gráfico, hay un número que mide esa relación. Este número es el coeficiente de correlación de Pearson:
 
 $$r = \frac{n \sum{XY}-(\sum{X}\sum{Y})}{\sqrt{ [n \sum{x^2}-(\sum{x})^2 ][n \sum{y^2}-(\sum{y})^2 }]}$$
 
 
-
+![Coeficiente de correlación](/probabilidad/figs/fuerza.png)
