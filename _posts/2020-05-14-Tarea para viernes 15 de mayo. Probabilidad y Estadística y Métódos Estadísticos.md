@@ -48,7 +48,7 @@ Para encontrar el modelo lo que se debe hacer es:
 
 En éste puede verse que la forma de la relación es cómo un línea recta. Pero no solo puede haber relaciones lineales:
 
-![Grafico de Dispersión](/probabilidad/figs/tipos.PNG)
+![Tipos de relación](/probabilidad/figs/tipos.png)
 
 2.Se debe describir el sentido y la fuerza de la relación.
 
@@ -68,7 +68,7 @@ En este caso puede decirse que hay una relación fuerte.
 
 
 
-![Grafico de Dispersión](/probabilidad/figs/fuerza.PNG)
+![Coeficiente de correlación](/probabilidad/figs/fuerza.png)
 
 Dado que es subjetivo hablar sobre la fuerza de la relación sólo con ver el gráfico, hay un número que mide esa relación. Este número es el coeficiente de correlación de Pearson:
 
