@@ -76,7 +76,7 @@ $$r = \frac{n \sum{XY}-(\sum{X}\sum{Y})}{\sqrt{ [n \sum{x^2}-(\sum{x})^2 ][n \su
 
 Los cálculos que deben hacersese muestran en la siguiente imágen:
 
-![Cálculos correlación](/probabilidad/figs/coeficiente.png)
+![Cálculos correlación](/probabilidad/figs/coeficiente.PNG)
 
 Por lo que el coeficiente **r** es:
 
@@ -84,7 +84,7 @@ $$r = \frac{8* 1100.54-(14.1*618)}{\sqrt{ [8* 24.9678-14.1^2 ][8*48844-618^2 }]}
 
 esto quiere decir que hay una relación muy alta según la siguiente tabla (considere el valor absoluto).
 
-![Tabla correlación](/probabilidad/figs/tabla.png)
+![Tabla correlación](/probabilidad/figs/tabla.PNG)
 
 3.cómo la forma de la relación es una linea recta, entonces habrá que calcular los parámetros de la linea recta que mejor representa esta relación:
 
