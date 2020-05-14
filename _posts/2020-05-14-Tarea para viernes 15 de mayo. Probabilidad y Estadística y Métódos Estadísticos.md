@@ -15,13 +15,13 @@ El objetivo es obtener estimaciones razonables de **Y** para distintos valores d
 
 ### Ejemplos
 
-* Estudiar cóomo influye la estatura del padre (X) sobre la estatura del hijo (Y).
+* Estudiar cómo influye la estatura del padre (X) sobre la estatura del hijo (Y).
 
 * Estimar el precio de una vivienda (Y) en función de su superficie (X).
 
 * Aproximar la calificación obtenida en una materia (Y) según el número de horas de estudio semanal (X).
 
-* Prever el tiempo de cálculo de un programa en función de la
+* Prever el tiempo de cálculo de un programa (Y) en función de la
 velocidad del procesador (X).
 
 * Predecir la duración de una leche en días (Y) a partir de la temperatura a la que se almacena (X).
