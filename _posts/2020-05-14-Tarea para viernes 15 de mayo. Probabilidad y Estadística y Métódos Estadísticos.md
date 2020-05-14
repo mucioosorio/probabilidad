@@ -11,7 +11,7 @@ Un modelo de **regresión** es un modelo que permite describir cómo influye una
 
 * Y: Variable dependiente o respuesta o endógena
 
-El objetivo es obtener estimaciones razonables de **Y** para distintos valores de **X** a partir de una muestra de **n* pares de valores $$(x_1, y_1), (x_2,y_2),. . . ,(x_n, y_n)$$.
+El objetivo es obtener estimaciones razonables de **Y** para distintos valores de **X** a partir de una muestra de **n** pares de valores $$(x_1, y_1), (x_2,y_2),. . . ,(x_n, y_n)$$.
 
 ### Ejemplos
 
