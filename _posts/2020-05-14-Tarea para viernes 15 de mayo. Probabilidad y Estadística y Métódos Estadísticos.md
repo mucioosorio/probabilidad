@@ -44,11 +44,11 @@ Para encontrar el modelo lo que se debe hacer es:
 
 1.Ver la forma que tiene la relación entre las variables. Esto se consigue a través de un gráfico de dispersión
 
-![Grafico de Dispersión](/probabilidad/figs/regresion.png)
+![Grafico de Dispersión](/probabilidad/figs/regresion.PNG)
 
 En éste puede verse que la forma de la relación es cómo un línea recta. Pero no solo puede haber relaciones lineales:
 
-![Grafico de Dispersión](/probabilidad/figs/tipos.png)
+![Grafico de Dispersión](/probabilidad/figs/tipos.PNG)
 
 2.Se debe describir el sentido y la fuerza de la relación.
 
@@ -62,13 +62,13 @@ En éste puede verse que la forma de la relación es cómo un línea recta. Pero
 
 Tiene que ver con lo cercano que están los puntos originales a una linea (ya sea recta o curva) imaginaria que pasa entre los puntos.
 
-![Grafico de Dispersión](/probabilidad/figs/fuerzadiagr.png)
+![Grafico de Dispersión](/probabilidad/figs/fuerzadiagr.PNG)
 
 En este caso puede decirse que hay una relación fuerte.
 
 
 
-![Grafico de Dispersión](/probabilidad/figs/fuerza.png)
+![Grafico de Dispersión](/probabilidad/figs/fuerza.PNG)
 
 Dado que es subjetivo hablar sobre la fuerza de la relación sólo con ver el gráfico, hay un número que mide esa relación. Este número es el coeficiente de correlación de Pearson:
 
