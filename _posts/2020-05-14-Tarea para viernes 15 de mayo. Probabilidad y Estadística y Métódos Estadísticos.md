@@ -72,3 +72,7 @@ $$r = \frac{n \sum{XY}-(\sum{X}\sum{Y})}{\sqrt{ [n \sum{x^2}-(\sum{x})^2 ][n \su
 
 
 ![Coeficiente de correlación](/probabilidad/figs/fuerza.png)
+
+Los cálculos que deben hacerse se muestran en la siguiente imágen:
+
+![Cálculos correlación](/probabilidad/figs/coeficiente.png)
