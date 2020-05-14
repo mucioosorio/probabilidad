@@ -50,13 +50,14 @@ En éste puede verse que la forma de la relación es cómo un línea recta. Pero
 
 ![Tipos de relación](/probabilidad/figs/tipos.png)
 
+
 2.Se debe describir el sentido y la fuerza de la relación.
 
 ### Sentido de la relación
 
-* Puede ser positivo, si cuando **X** crece tambien lo hace **Y** o viceversa.
+* Puede ser positivo, si cuando **X** crece tambien lo hace **Y** o viceversa. En este caso el coeficiente de correlación es positivo.
 
-* Negativo, si **Y** disminuye cuando **X** crece.
+* Negativo, si **Y** disminuye cuando **X** crece.El coeficiente de correlación es negativo.
 
 ### Fuerza de la relación
 
@@ -73,6 +74,44 @@ $$r = \frac{n \sum{XY}-(\sum{X}\sum{Y})}{\sqrt{ [n \sum{x^2}-(\sum{x})^2 ][n \su
 
 ![Coeficiente de correlación](/probabilidad/figs/fuerza.png)
 
-Los cálculos que deben hacerse se muestran en la siguiente imágen:
+Los cálculos que deben hacersese muestran en la siguiente imágen:
 
-![Cálculos correlación](/probabilidad/figs/coeficiente.PNG)
+![Cálculos correlación](/probabilidad/figs/coeficiente.png)
+
+Por lo que el coeficiente **r** es:
+
+$$r = \frac{8* 1100.54-(14.1*618)}{\sqrt{ [8* 24.9678-14.1^2 ][8*48844-618^2 }]}=0.99772821$$
+
+esto quiere decir que hay una relación muy alta según la siguiente tabla (considere el valor absoluto).
+
+![Tabla correlación](/probabilidad/figs/tabla.png)
+
+3.cómo la forma de la relación es una linea recta, entonces habrá que calcular los parámetros de la linea recta que mejor representa esta relación:
+
+$$Y = a + bX$$
+
+Donde **a** es la ordenada al origen y **b** es la pendiente de la recta. Para encontrar estos parámetros se recurre a un procedimiento denominado método de los mínimos cuadrados. Esto es, la línea recta obtenida con éste método pasa lo más cerca posiblede los pares de puntos:
+
+$$b = \frac{n \sum{XY}-(\sum{X}\sum{Y})}{\sqrt{ n \sum{x^2}-(\sum{x})^2 }}$$
+
+$$b= \frac{8* 1100.54-(14.1*618)}{\sqrt{ 8* 24.9678-14.1^2 }}=97.08$$
+
+y la ordenada al origen 
+
+$$ a = \bar{y}-b*\bar{x}$$
+
+
+$$ a = \frac{618}{8}-97.08*\frac{14.1}{8}=-93.8535$$
+
+Finalmente, la ecuación de la linea recta es:
+
+$$Y=-93.86+97.08*X$$
+
+Esta ecuación permite hacer estimaciones del peso de un alumno en fnción de su estatura, por ejemplo, si un alumno mide 1.73 ¿cuánto pesará?
+
+Basta con sustituir en la ecuación para obteer el resultado de la estimación:
+
+$$Y=-93.86+97.08*1.73=74.0949$$
+
+Es decir, que se espera que ese alumno pese aproximadamente 74.09 kg.
+
