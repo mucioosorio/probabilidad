@@ -57,7 +57,9 @@ En éste puede verse que la forma de la relación es cómo un línea recta. Pero
 
 * Puede ser positivo, si cuando **X** crece tambien lo hace **Y** o viceversa. En este caso el coeficiente de correlación es positivo.
 
-* Negativo, si **Y** disminuye cuando **X** crece.El coeficiente de correlación es negativo.
+* Negativo, si **Y** disminuye cuando **X** crece.El coeficiente de correlación es negativo. 
+
+Las estaturas y los pesos se relacionan con sentido positivo, pues si crece l estatura también lo hace el peso.
 
 ### Fuerza de la relación
 
@@ -74,7 +76,7 @@ $$r = \frac{n \sum{XY}-(\sum{X}\sum{Y})}{\sqrt{ [n \sum{x^2}-(\sum{x})^2 ][n \su
 
 ![Coeficiente de correlación](/probabilidad/figs/fuerza.png)
 
-Los cálculos que deben hacerse se muestran en la siguiente imágen:
+Los cálculos que deben hacersese muestran en la siguiente imágen:
 
 ![Cálculos correlación](/probabilidad/figs/coeficiente.PNG)
 
@@ -114,4 +116,77 @@ Basta con sustituir en la ecuación para obteer el resultado de la estimación:
 $$Y=-93.86+97.08*1.73=74.0949$$
 
 Es decir, que se espera que ese alumno pese aproximadamente 74.09 kg.
+
+###TAREA
+
+1.Los siguientes datos son sobre el tiempo en minutos de llamadas y el costo en pesos del servicio. 
+
+Tiempo de llamada  | Costo servicio
+------------------ | -------------
+2                  | 2
+4                  | 5
+6                  | 7
+8                  | 9
+10                 |11
+
+
+* ¿Cuál es la variable que depende **Y**?
+
+* ¿Cuál es la variable independiente **X**?
+
+* Construya el diagrama de dispersión. Diga cuál es la forma de la relación, cuál es el sentido 
+
+* Calcule el coeficiente de correlación y haga la interpretación según la tabla.
+
+* Encuentre el valor de la pendiente **b**
+
+* Encuentre el valor de la ordenada al origen **a**
+
+* Escriba la ecuación que relaciona a estas dos variables.
+
+* Use esta ecuación para pronosticar cuánto costará una llamada que tarda 3.5 min
+
+
+2.La duración de la leche en dias se relaciona con la temperatura de su almacenamiento en gradoscentígrados. Se obtuvieron los siguientes datos: 
+
+Temperatura (centígrados)  | Duración (días)
+------------------ | ---------------
+0                  |24
+5                  |20
+10                 |16
+15                 |10
+20                 |2
+25                 |1
+
+* ¿Cuál es la variable que depende **Y**?
+
+* ¿Cuál es la variable independiente **X**?
+
+* Construya el diagrama de dispersión.Diga cuál es la forma de la relación, cuál es el sentido 
+
+* Calcule el coeficiente de correlación y haga la interpretación según la tabla.
+
+* Encuentre el valor de la pendiente **b**
+
+* Encuentre el valor de la ordenada al origen **a**
+
+* Escriba la ecuación que relaciona a estas dos variables.
+
+* Use esta ecuación para pronosticar cuánto durará la leche si se almacena a 3 grados centígrados
+
+
+
+Asignación para entregar como máximo mañana viernes 15 de mayo.
+
+Tareas que se reciban 1 día despues contarán 50%
+
+Tareas que se reciban 2 días despues contarán 25%
+
+Despues de dos diás solo contarán el 10%
+
+
+Aquí: [https://forms.gle/hYqRzywFzYVkd297A](https://forms.gle/hYqRzywFzYVkd297A)
+
+
+Dudas se atienden en el correo mucio.osorio@itson.edu.mx Estoy atendiendolas lo mas pronto posible.
 
