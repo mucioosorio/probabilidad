@@ -1,5 +1,5 @@
 ---
-title: "Tara para viernes 15 de mayo. Probabilidad y Estadística y Métodos Estadísticos."
+title: "Tarea para viernes 15 de mayo. Probabilidad y Estadística y Métodos Estadísticos."
 output: html_notebook
 ---
 
