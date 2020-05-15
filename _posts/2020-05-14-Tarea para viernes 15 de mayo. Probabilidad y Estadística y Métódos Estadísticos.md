@@ -94,9 +94,9 @@ $$Y = a + bX$$
 
 Donde **a** es la ordenada al origen y **b** es la pendiente de la recta. Para encontrar estos parámetros se recurre a un procedimiento denominado método de los mínimos cuadrados. Esto es, la línea recta obtenida con éste método pasa lo más cerca posiblede los pares de puntos:
 
-$$b = \frac{n \sum{XY}-(\sum{X}\sum{Y})}{\sqrt{ n \sum{x^2}-(\sum{x})^2 }}$$
+$$b = \frac{n \sum{XY}-(\sum{X}\sum{Y})}{ n \sum{x^2}-(\sum{x})^2 }$$
 
-$$b= \frac{8* 1100.54-(14.1*618)}{\sqrt{ 8* 24.9678-14.1^2 }}=97.08$$
+$$b= \frac{8* 1100.54-(14.1*618)}{ 8* 24.9678-14.1^2 }=97.08$$
 
 y la ordenada al origen 
 
